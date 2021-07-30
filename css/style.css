@@ -1,0 +1,24 @@
+.bg-slider{
+    background-color: #fceae8;
+}
+.shoes-info-color{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    
+}
+.categories img{
+    width: 100px;
+
+}
+.watch-bg{
+    background-color: #f2a502;
+}
+.shoes-bg{
+    background-color: #da70d6;
+}
+.bag-bg{
+    background-color: #2d02ff;
+}
